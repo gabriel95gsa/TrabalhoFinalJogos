@@ -4430,3 +4430,406 @@ Make sure 'BP_Animation_Peao_Level_1_C' has been compiled for  Set inimigoPodeAt
 [2019.06.01-22.36.18:370][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.06.01-22.36.18:378][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
 [2019.06.01-22.36.18:411][532]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2019.06.01-22.55.14:921][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.01-22.55.14:998][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.06.01-22.55.16:100][ 54]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Level_1E9333ECB4F20462E50AF35B4E74877D0.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/ThirdPersonBP/Maps/Level_1.umap'
+[2019.06.01-22.55.16:900][ 54]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Level_1_BuiltDataA4D0777E48F9086950416C84A7D82227.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/ThirdPersonBP/Maps/Level_1_BuiltData.uasset'
+[2019.06.01-22.55.17:812][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.06.01-22.55.19:411][101]LogSlate: Window 'Save Content' being destroyed
+[2019.06.01-22.55.19:514][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Falling_Back_Death977ACF494AF5A47CB9A2A48D85A3A04B.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/Falling_Back_Death.uasset'
+[2019.06.01-22.55.19:559][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Falling_Back_Death_Anim_mixamo_c37899E2F4108A7F92B423E8034053733.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/Falling_Back_Death_Anim_mixamo_com.uasset'
+[2019.06.01-22.55.19:592][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Falling_Back_Death_Anim_Take_001C3E4D5CD4CA42D58B248E490352968F6.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/Falling_Back_Death_Anim_Take_001.uasset'
+[2019.06.01-22.55.19:635][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Falling_Back_Death_PhysicsAssetBEDCA1D346F9E9D6619CB58D61BB106C.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/Falling_Back_Death_PhysicsAsset.uasset'
+[2019.06.01-22.55.20:576][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/maria_specular681238554BFCDC215BA95FA8603F7626.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/maria_specular.uasset'
+[2019.06.01-22.55.21:999][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/MAW_diffuse78270FE8486065ED3F0AB3AD87B91171.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/MAW_diffuse.uasset'
+[2019.06.01-22.55.22:042][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/MAW_glow7A8ABD54476E5BBEB16A2DB837FA83C7.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/MAW_glow.uasset'
+[2019.06.01-22.55.22:071][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/MAW_MATFF6445B34C39E4529D29469FD174422E.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/MAW_MAT.uasset'
+[2019.06.01-22.55.22:438][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/MAW_normal14E3DF0E4F64357912F9C090F375D943.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/MAW_normal.uasset'
+[2019.06.01-22.55.22:544][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Mutant_Jump_AttackC56CDD6340E8454FF8FFF1AC706654D3.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/Mutant_Jump_Attack.uasset'
+[2019.06.01-22.55.22:694][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Mutant_Jump_Attack_Anim_mixamo_c18EFDF6A41936FC6950F87887B31AEAC.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/Mutant_Jump_Attack_Anim_mixamo_com.uasset'
+[2019.06.01-22.55.22:723][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Mutant_Jump_Attack_Anim_Take_00130EFD4FD419E3030BC9B23BEDE84F40B.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/Mutant_Jump_Attack_Anim_Take_001.uasset'
+[2019.06.01-22.55.22:762][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Mutant_Jump_Attack_PhysicsAsset98E48B8042569E183A3031B8AEAC370B.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/Mutant_Jump_Attack_PhysicsAsset.uasset'
+[2019.06.01-22.55.22:822][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Running16E071564E6ECBB9D0BF458D86FAE673.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/Running.uasset'
+[2019.06.01-22.55.22:849][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Running_Anim_mixamo_com927732364C852357CF7698ABE50E8546.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/Running_Anim_mixamo_com.uasset'
+[2019.06.01-22.55.22:874][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Running_Anim_Take_001FD16F8AB400CEC8AE980D385F7BFFADF.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/Running_Anim_Take_001.uasset'
+[2019.06.01-22.55.22:917][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Running_PhysicsAsset77670FAF4670C042247C61BCD86B5E6D.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/Animacao/Running_PhysicsAsset.uasset'
+[2019.06.01-22.55.23:890][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/maria_specularFB9061FF4C62090234CCF6AC8C364D8F.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/maria_specular.uasset'
+[2019.06.01-22.55.25:304][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/MAW_diffuseB6FCC6464AF972A35E8A55A58DEDBA38.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/MAW_diffuse.uasset'
+[2019.06.01-22.55.25:377][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/MAW_glow212EC1014D6DA7502F3597A800A5B124.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/MAW_glow.uasset'
+[2019.06.01-22.55.25:499][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/maw_j_laygo2B2CCB1C4FFB663BADA771935782B607.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/maw_j_laygo.uasset'
+[2019.06.01-22.55.25:588][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/maw_j_laygo_PhysicsAssetB25367464FE6CEE31502A3B53C7C93F5.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/maw_j_laygo_PhysicsAsset.uasset'
+[2019.06.01-22.55.25:632][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/maw_j_laygo_SkeletonB66A9FD041136282446F61ABC754D62A.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/maw_j_laygo_Skeleton.uasset'
+[2019.06.01-22.55.25:682][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/MAW_MATDAD6CFD245B30A73CCF15BA256098C98.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/MAW_MAT.uasset'
+[2019.06.01-22.55.25:950][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/MAW_normalF2E481C04BC4E757EBFFFCB11D0F0872.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Chefao/MAW_normal.uasset'
+[2019.06.01-22.55.26:011][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Falling_Back_DeathF65142B148FD1F06377D938FE1E5951C.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/Falling_Back_Death.uasset'
+[2019.06.01-22.55.26:049][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Falling_Back_Death_Anim_mixamo_cF0D463034F282EBBDFE9A2A918EF8411.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/Falling_Back_Death_Anim_mixamo_com.uasset'
+[2019.06.01-22.55.26:076][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Falling_Back_Death_Anim_Take_0018335E1DD4313AB178FFBA49608BD33B6.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/Falling_Back_Death_Anim_Take_001.uasset'
+[2019.06.01-22.55.26:119][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Falling_Back_Death_PhysicsAsset78856CCB441239CFA3F5A98B8FB03D6A.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/Falling_Back_Death_PhysicsAsset.uasset'
+[2019.06.01-22.55.27:126][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/maria_specular0CFAA83540F2007DD4D8D29D5DCF6AEF.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/maria_specular.uasset'
+[2019.06.01-22.55.28:510][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/MAW_diffuse8C8A41E340D1B09A153A2F86A4A4E514.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/MAW_diffuse.uasset'
+[2019.06.01-22.55.28:570][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/MAW_glowA20F362C47F5A790184CB2B16841CD5A.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/MAW_glow.uasset'
+[2019.06.01-22.55.28:609][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/MAW_MAT302DE24F4BCC46783CAFAF9A64F83807.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/MAW_MAT.uasset'
+[2019.06.01-22.55.29:106][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/MAW_normal46B7CFB8456E2B2F383CD197F77E42EC.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/MAW_normal.uasset'
+[2019.06.01-22.55.29:246][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Mutant_Jump_Attack03AADDA242E15E5C800411AADCF82BCC.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/Mutant_Jump_Attack.uasset'
+[2019.06.01-22.55.29:426][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Mutant_Jump_Attack_Anim_mixamo_cB7B439374A437A211A9356A8AC8D94D8.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/Mutant_Jump_Attack_Anim_mixamo_com.uasset'
+[2019.06.01-22.55.29:460][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Mutant_Jump_Attack_Anim_Take_001F509F8AA4BA89A005262AC909A0B767A.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/Mutant_Jump_Attack_Anim_Take_001.uasset'
+[2019.06.01-22.55.29:516][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Mutant_Jump_Attack_PhysicsAssetD821F6CC43F55D7EB3D006B0F9F50E0A.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/Mutant_Jump_Attack_PhysicsAsset.uasset'
+[2019.06.01-22.55.29:597][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Running76A0524049DAEB5D745861B77E301E5A.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/Running.uasset'
+[2019.06.01-22.55.29:628][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Running_Anim_mixamo_com91B008074C6AB5BA276BF9BBEDC772EF.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/Running_Anim_mixamo_com.uasset'
+[2019.06.01-22.55.29:659][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Running_Anim_Take_0012A73725B47A6D252CBDF038C38F945C0.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/Running_Anim_Take_001.uasset'
+[2019.06.01-22.55.29:722][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Running_PhysicsAsset2854415440C0B48F62F963A5D6F3421B.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Animacao/Running_PhysicsAsset.uasset'
+[2019.06.01-22.55.30:878][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Demon__diffuseE8D97AC04C7CB2D3CBDD36A08C991A57.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Demon__diffuse.uasset'
+[2019.06.01-22.55.32:548][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Demon__normal22ACB5D443B139F4B4FF429335188102.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Demon__normal.uasset'
+[2019.06.01-22.55.33:186][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Demon__specularF11CC1804F1122740D1E54B82CAD4389.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Demon__specular.uasset'
+[2019.06.01-22.55.33:211][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/Demon_MAT942ABE8E456CF1034ACA49AC2B33E956.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/Demon_MAT.uasset'
+[2019.06.01-22.55.33:280][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/demon_t_wiezzorek030C1E294D386229FCDA099C83B9ADA4.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/demon_t_wiezzorek.uasset'
+[2019.06.01-22.55.33:316][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/demon_t_wiezzorek_PhysicsAssetB2D850404976905C1D9E85B5873C9817.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/demon_t_wiezzorek_PhysicsAsset.uasset'
+[2019.06.01-22.55.33:338][101]LogSavePackage: Moving '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Saved/demon_t_wiezzorek_SkeletonCCAB10B44A3F6CF8A2249EB7E34BA098.tmp' to '../../../../../../Users/Mateus Augusto Gomes/Documents/GitHub/TrabalhoFinalJogos/GhanorsLandInvaders/Content/Personagens/Inimigo/Level_1/Peao/demon_t_wiezzorek_Skeleton.uasset'
+[2019.06.01-22.55.34:619][101]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.01-22.55.34:744][101]LogSlate: Window 'GhanorsLandInvaders - Unreal Editor' being destroyed
+[2019.06.01-22.55.36:048][102]Cmd: QUIT_EDITOR
+[2019.06.01-22.55.37:075][102]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.01-22.55.37:150][102]LogExit: Preparing to exit.
+[2019.06.01-22.55.38:216][102]LogExit: Editor shut down
+[2019.06.01-22.55.38:230][102]LogExit: Transaction tracking system shut down
+[2019.06.01-22.55.40:189][102]LogExit: Object subsystem successfully closed.
+[2019.06.01-22.55.40:252][102]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.01-22.55.40:399][102]LogD3D11RHI: Shutdown
+[2019.06.01-22.55.40:400][102]LogD3D11RHI: CleanupD3DDevice
+[2019.06.01-22.55.40:425][102]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.01-22.55.40:425][102]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.01-22.55.40:426][102]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.01-22.55.40:426][102]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.01-22.55.40:426][102]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.01-22.55.40:426][102]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.01-22.55.41:275][102]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.01-22.55.41:406][102]LogModuleManager: Shutting down and abandoning module AnimationEditor (656)
+[2019.06.01-22.55.41:406][102]LogModuleManager: Shutting down and abandoning module PinnedCommandList (654)
+[2019.06.01-22.55.41:406][102]LogModuleManager: Shutting down and abandoning module SkeletonEditor (652)
+[2019.06.01-22.55.41:406][102]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (650)
+[2019.06.01-22.55.41:407][102]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2019.06.01-22.55.41:408][102]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (646)
+[2019.06.01-22.55.41:408][102]LogModuleManager: Shutting down and abandoning module Voice (644)
+[2019.06.01-22.55.41:408][102]LogModuleManager: Shutting down and abandoning module StatsViewer (642)
+[2019.06.01-22.55.41:409][102]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (640)
+[2019.06.01-22.55.41:410][102]LogModuleManager: Shutting down and abandoning module SceneOutliner (638)
+[2019.06.01-22.55.41:410][102]LogModuleManager: Shutting down and abandoning module AddContentDialog (636)
+[2019.06.01-22.55.41:432][102]LogModuleManager: Shutting down and abandoning module WidgetCarousel (635)
+[2019.06.01-22.55.41:433][102]LogModuleManager: Shutting down and abandoning module EditorWidgets (632)
+[2019.06.01-22.55.41:433][102]LogModuleManager: Shutting down and abandoning module CollectionManager (630)
+[2019.06.01-22.55.41:434][102]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.06.01-22.55.41:435][102]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.06.01-22.55.41:436][102]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.06.01-22.55.41:436][102]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.06.01-22.55.41:436][102]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.06.01-22.55.41:436][102]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.06.01-22.55.41:437][102]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.06.01-22.55.41:437][102]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.06.01-22.55.41:437][102]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.06.01-22.55.41:441][102]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.06.01-22.55.41:441][102]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.06.01-22.55.41:442][102]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.06.01-22.55.41:443][102]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.06.01-22.55.41:443][102]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.06.01-22.55.41:444][102]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.06.01-22.55.41:448][102]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.06.01-22.55.41:448][102]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.06.01-22.55.41:450][102]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.06.01-22.55.41:451][102]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.06.01-22.55.41:451][102]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.06.01-22.55.41:451][102]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.06.01-22.55.41:451][102]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.06.01-22.55.41:451][102]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.06.01-22.55.41:453][102]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.06.01-22.55.41:454][102]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.06.01-22.55.41:455][102]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.06.01-22.55.41:456][102]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.06.01-22.55.41:456][102]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.06.01-22.55.41:456][102]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.06.01-22.55.41:456][102]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.06.01-22.55.41:456][102]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.06.01-22.55.41:456][102]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.06.01-22.55.41:456][102]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.06.01-22.55.41:456][102]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.06.01-22.55.41:456][102]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.06.01-22.55.41:456][102]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.06.01-22.55.41:456][102]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.06.01-22.55.41:456][102]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.06.01-22.55.41:456][102]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.06.01-22.55.41:457][102]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.06.01-22.55.41:457][102]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.06.01-22.55.41:457][102]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.06.01-22.55.41:457][102]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.06.01-22.55.41:457][102]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.06.01-22.55.41:459][102]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.06.01-22.55.41:461][102]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.06.01-22.55.41:463][102]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.06.01-22.55.41:466][102]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.06.01-22.55.41:468][102]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.06.01-22.55.41:468][102]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.06.01-22.55.41:469][102]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.06.01-22.55.41:469][102]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.06.01-22.55.41:470][102]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.06.01-22.55.41:628][102]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.06.01-22.55.41:628][102]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.06.01-22.55.41:628][102]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.06.01-22.55.41:628][102]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.06.01-22.55.41:628][102]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.06.01-22.55.41:629][102]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.06.01-22.55.41:629][102]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.06.01-22.55.41:631][102]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.06.01-22.55.41:632][102]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.06.01-22.55.41:633][102]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.06.01-22.55.41:633][102]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.06.01-22.55.41:634][102]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.06.01-22.55.41:635][102]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.06.01-22.55.41:635][102]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.06.01-22.55.41:635][102]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.06.01-22.55.41:636][102]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.06.01-22.55.41:638][102]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.06.01-22.55.41:638][102]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.06.01-22.55.41:641][102]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.06.01-22.55.41:642][102]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.06.01-22.55.41:643][102]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.06.01-22.55.41:644][102]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.06.01-22.55.41:646][102]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.06.01-22.55.41:691][102]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.06.01-22.55.41:692][102]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.06.01-22.55.41:694][102]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.06.01-22.55.41:699][102]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.06.01-22.55.41:699][102]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.06.01-22.55.41:700][102]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.06.01-22.55.41:701][102]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.06.01-22.55.41:701][102]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.06.01-22.55.41:701][102]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.06.01-22.55.41:701][102]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.06.01-22.55.41:701][102]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.06.01-22.55.41:772][102]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.06.01-22.55.41:773][102]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.06.01-22.55.41:787][102]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.06.01-22.55.41:788][102]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.06.01-22.55.41:788][102]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.06.01-22.55.41:789][102]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.06.01-22.55.41:789][102]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.06.01-22.55.41:790][102]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.06.01-22.55.41:798][102]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.06.01-22.55.41:799][102]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.06.01-22.55.41:799][102]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.06.01-22.55.41:799][102]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.06.01-22.55.41:800][102]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.06.01-22.55.41:801][102]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.06.01-22.55.41:801][102]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.06.01-22.55.41:801][102]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.06.01-22.55.41:801][102]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.06.01-22.55.41:801][102]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.06.01-22.55.41:801][102]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.06.01-22.55.41:802][102]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.06.01-22.55.41:802][102]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.06.01-22.55.41:803][102]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.06.01-22.55.41:803][102]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.06.01-22.55.41:803][102]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.06.01-22.55.41:815][102]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.06.01-22.55.42:025][102]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.06.01-22.55.42:027][102]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.06.01-22.55.42:027][102]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.06.01-22.55.42:028][102]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.06.01-22.55.42:029][102]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.06.01-22.55.42:030][102]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.06.01-22.55.42:030][102]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.06.01-22.55.42:030][102]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.06.01-22.55.42:031][102]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.06.01-22.55.42:031][102]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.06.01-22.55.42:032][102]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.06.01-22.55.42:032][102]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.06.01-22.55.42:032][102]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.06.01-22.55.42:032][102]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.06.01-22.55.42:033][102]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.06.01-22.55.42:035][102]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.06.01-22.55.42:035][102]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.06.01-22.55.42:035][102]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.06.01-22.55.42:035][102]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.06.01-22.55.42:035][102]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.06.01-22.55.42:036][102]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.06.01-22.55.42:037][102]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.06.01-22.55.42:037][102]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.06.01-22.55.42:037][102]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.06.01-22.55.42:037][102]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.06.01-22.55.42:038][102]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.06.01-22.55.42:038][102]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.06.01-22.55.42:038][102]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.06.01-22.55.42:038][102]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.06.01-22.55.42:038][102]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.06.01-22.55.42:038][102]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.06.01-22.55.42:038][102]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.06.01-22.55.42:038][102]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.06.01-22.55.42:038][102]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.06.01-22.55.42:039][102]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.06.01-22.55.42:040][102]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.06.01-22.55.42:044][102]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.06.01-22.55.42:045][102]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.06.01-22.55.42:046][102]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.06.01-22.55.42:046][102]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.06.01-22.55.42:046][102]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.06.01-22.55.42:047][102]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.06.01-22.55.42:047][102]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.06.01-22.55.42:047][102]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.06.01-22.55.42:050][102]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.06.01-22.55.42:052][102]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.06.01-22.55.42:054][102]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.06.01-22.55.42:055][102]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.06.01-22.55.42:055][102]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.06.01-22.55.42:055][102]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.06.01-22.55.42:055][102]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.06.01-22.55.42:055][102]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.06.01-22.55.42:055][102]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.06.01-22.55.42:055][102]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.06.01-22.55.42:055][102]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.06.01-22.55.42:059][102]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.06.01-22.55.42:059][102]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.06.01-22.55.42:059][102]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.06.01-22.55.42:060][102]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.06.01-22.55.42:060][102]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.06.01-22.55.42:060][102]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.01-22.55.42:060][102]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.01-22.55.42:161][102]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.06.01-22.55.42:263][102]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.06.01-22.55.42:263][102]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.06.01-22.55.42:264][102]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.06.01-22.55.42:265][102]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.06.01-22.55.42:265][102]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.06.01-22.55.42:267][102]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.01-22.55.42:268][102]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.06.01-22.55.42:268][102]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.06.01-22.55.42:268][102]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.06.01-22.55.42:269][102]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.06.01-22.55.42:269][102]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.06.01-22.55.42:269][102]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.06.01-22.55.42:269][102]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.06.01-22.55.42:272][102]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.06.01-22.55.42:282][102]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.06.01-22.55.42:284][102]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.06.01-22.55.42:284][102]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.06.01-22.55.42:284][102]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.06.01-22.55.42:288][102]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.06.01-22.55.42:302][102]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.06.01-22.55.42:303][102]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.06.01-22.55.42:303][102]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.06.01-22.55.42:303][102]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.06.01-22.55.42:303][102]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.06.01-22.55.42:305][102]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.06.01-22.55.42:306][102]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.06.01-22.55.42:309][102]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.06.01-22.55.42:309][102]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.06.01-22.55.42:309][102]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.06.01-22.55.42:311][102]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.06.01-22.55.42:311][102]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.06.01-22.55.42:311][102]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.06.01-22.55.42:311][102]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.06.01-22.55.42:313][102]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.06.01-22.55.42:314][102]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.06.01-22.55.42:314][102]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.06.01-22.55.42:318][102]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.06.01-22.55.42:319][102]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.06.01-22.55.42:322][102]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.06.01-22.55.42:322][102]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.06.01-22.55.42:323][102]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.06.01-22.55.42:326][102]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.06.01-22.55.42:332][102]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.06.01-22.55.42:332][102]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.06.01-22.55.42:336][102]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.06.01-22.55.42:336][102]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.06.01-22.55.42:352][102]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.06.01-22.55.42:353][102]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.06.01-22.55.42:353][102]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.06.01-22.55.42:353][102]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.06.01-22.55.42:353][102]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.06.01-22.55.42:353][102]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.06.01-22.55.42:353][102]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.06.01-22.55.42:354][102]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.06.01-22.55.42:354][102]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.06.01-22.55.42:354][102]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.06.01-22.55.42:356][102]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.06.01-22.55.42:356][102]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.06.01-22.55.42:357][102]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.06.01-22.55.42:359][102]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.06.01-22.55.42:360][102]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.06.01-22.55.42:360][102]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.06.01-22.55.42:462][102]LogDerivedDataCache: Shutdown
+[2019.06.01-22.55.42:462][102]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.06.01-22.55.42:463][102]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.06.01-22.55.42:465][102]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.06.01-22.55.42:467][102]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.06.01-22.55.42:468][102]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.06.01-22.55.42:469][102]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.06.01-22.55.42:469][102]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.06.01-22.55.42:470][102]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.06.01-22.55.42:470][102]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.06.01-22.55.42:470][102]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.06.01-22.55.42:470][102]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.06.01-22.55.42:472][102]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.06.01-22.55.42:473][102]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.06.01-22.55.42:473][102]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.06.01-22.55.42:473][102]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.06.01-22.55.42:474][102]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.06.01-22.55.42:474][102]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.06.01-22.55.42:475][102]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.06.01-22.55.42:539][102]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.06.01-22.55.42:539][102]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.06.01-22.55.42:542][102]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.06.01-22.55.42:544][102]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.06.01-22.55.42:549][102]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.06.01-22.55.42:563][102]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.06.01-22.55.42:563][102]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.06.01-22.55.42:572][102]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.06.01-22.55.42:572][102]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.06.01-22.55.42:694][102]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.06.01-22.55.42:694][102]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.06.01-22.55.42:694][102]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.06.01-22.55.42:694][102]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.06.01-22.55.42:695][102]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.06.01-22.55.42:695][102]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.06.01-22.55.42:695][102]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.06.01-22.55.42:695][102]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.06.01-22.55.42:695][102]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.06.01-22.55.42:695][102]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.06.01-22.55.42:695][102]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.06.01-22.55.42:695][102]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.06.01-22.55.42:696][102]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.06.01-22.55.42:696][102]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.06.01-22.55.42:698][102]LogHMD: Freeing OpenVRDLLHandle.
+[2019.06.01-22.55.42:698][102]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.06.01-22.55.42:699][102]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.06.01-22.55.42:699][102]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.06.01-22.55.42:699][102]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.06.01-22.55.42:699][102]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.06.01-22.55.42:700][102]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.06.01-22.55.42:701][102]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.06.01-22.55.42:734][102]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.06.01-22.55.42:734][102]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.01-22.55.42:734][102]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAB4A005A-45FC-02D4-44C5-BB98F7730256%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.0-5660361%2B%2B%2BUE4%2BRelease-4.22&UserID=28a0372449e6c0c3c5dc289c3c1e856e%7C4826f0728269450d9dd4d4d92ef1af24%7Caedf5c15-17e6-4034-ab3e-20293c20a63a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.01-22.55.42:766][102]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.06.01-22.55.42:771][102]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.06.01-22.55.42:775][102]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.06.01-22.55.42:782][102]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.06.01-22.55.42:782][102]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.06.01-22.55.42:783][102]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.06.01-22.55.42:784][102]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.06.01-22.55.42:785][102]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.06.01-22.55.42:786][102]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.06.01-22.55.42:786][102]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.06.01-22.55.42:786][102]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.06.01-22.55.42:786][102]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.06.01-22.55.42:792][102]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.06.01-22.55.42:793][102]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.06.01-22.55.42:793][102]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.06.01-22.55.42:794][102]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.06.01-22.55.42:794][102]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.06.01-22.55.42:794][102]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.06.01-22.55.42:794][102]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.06.01-22.55.42:795][102]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.06.01-22.55.42:795][102]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.06.01-22.55.42:795][102]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.06.01-22.55.42:795][102]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.06.01-22.55.42:795][102]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.06.01-22.55.42:802][102]LogExit: Exiting.
+[2019.06.01-22.55.42:835][102]Log file closed, 06/01/19 19:55:42
